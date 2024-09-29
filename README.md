@@ -1,1 +1,1 @@
-Another quick challenge to make a flight go faster. This is the boarding screen outsite the gate of my most recent southwest flight. I'm going to heep doing these to sharpen my CSS skills. 
+Another quick challenge to make a flight go faster. This is the boarding screen outsite the gate of my most recent southwest flight. I'm going to keep doing these to sharpen my CSS skills. 

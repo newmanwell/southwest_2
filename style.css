@@ -1,0 +1,94 @@
+body {
+    margin: 0px;
+    width: 1000px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    padding-left: 50px;
+    height: 100px;
+}
+
+header h1 {
+    color: blue;
+    align-self: center;
+    font-size: 100px;
+}
+
+.head_center {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.flight_number {
+    margin-bottom: 3px;
+}
+
+.center_center {
+    display: inline;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.center_center h2 {
+    margin-top: 0px;
+    font-size: 35px;
+}
+
+.new_time {
+    background-color: rgb(215, 215, 38);
+    margin-bottom: 3px;
+}
+
+.southwest {
+    color: blue;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.copy {
+    font-size: 10px;
+    display: inline-flex;
+    align-content: flex-start;
+}
+
+.heart {
+    color: red;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.big_board {
+    height: 350px;
+    background-color: rgb(215, 215, 38);
+    padding-left: 50px;
+    color: blue;
+    align-content: space-between;
+}
+
+.big_board p {
+    font-size: 20px;
+}
+
+.big_board h3 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.big_board h2 {
+    margin-top: 50px;
+    font-size: 100px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}

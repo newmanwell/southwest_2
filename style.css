@@ -52,8 +52,8 @@ header h1 {
 
 .copy {
     font-size: 10px;
-    display: inline-flex;
-    align-content: flex-start;
+    vertical-align: top;
+    padding-top: 10px;
 }
 
 .heart {
